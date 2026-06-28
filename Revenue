@@ -1,0 +1,17 @@
+It includes:
+
+Automated data ingestion
+EDA-ready synthetic transaction data
+Feature engineering
+Baseline and multiple-model comparison
+Trained Gradient Boosting model
+Model-comparison visualization
+Flask prediction API
+Country-specific and all-country forecasts
+Prediction logging and drift monitoring
+API, model, logging, and ingestion unit tests
+Isolated test files and logs
+Single-command test execution
+Dockerfile and Docker Compose
+GitHub push instructions
+Complete README documentation
